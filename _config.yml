@@ -22,7 +22,7 @@ repository               : "sneha2599/sneha.github.io"
 author:
   # Biographic information
   name             : "Sneha Ray Barman"
-  avatar           : "DSC_0311.JPG"
+  #avatar           : "DSC_0311.JPG"
   pronouns         : "she/her"  
   bio              : "Phonological modeling using GAN"
   location         : "Kolkata, India"
