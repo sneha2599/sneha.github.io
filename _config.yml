@@ -21,7 +21,7 @@ repository               : "sneha2599/sneha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_1.png"
   name             : "Sneha Ray Barman"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
